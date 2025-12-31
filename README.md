@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Improving my coding skills by building real-world projects and solving practical problems<br>👯 Beginner-friendly open-source projects, web development ideas, and learning-based tech initiatives<br>🤝 Writing clean code, improving logic building, and understanding best development practices<br>🌱 Data Structures, Algorithms, and modern web technologies<br>💬 Ask me aboutProgramming basics, project ideas, or how to start your coding journey<br>⚡ Fun factI believe consistency beats motivation — small progress every day wins
+🔭 Improving my coding skills by building real-world projects and solving practical problems<br>👯 Beginner-friendly open-source projects, web development ideas, and learning-based tech initiatives<br>🤝 Writing clean code, improving logic building, and understanding best development practices<br>🌱 Data Structures, Algorithms, and modern web technologies<br>💬 Ask me aboutProgramming basics, project ideas, or how to start your coding journey<br>⚡ Fun fact I believe consistency beats motivation — small progress every day wins
 
 
 ## 🌐 Socials:
